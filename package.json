@@ -1,0 +1,24 @@
+{
+  "name": "dailytasks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hungdinhx/DailyTasks.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hungdinhx/DailyTasks/issues"
+  },
+  "homepage": "https://github.com/hungdinhx/DailyTasks#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.9.19"
+  }
+}
